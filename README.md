@@ -1,4 +1,8 @@
-# EjemploAngularPhp
+# Ejemplo de enrutador con Angular
+
+**Tutorial**: https://parzibyte.me/blog/2019/11/04/angular-router-tutorial-ejemplo/
+
+**Demostración**: https://ejemplo-angular-router.stackblitz.io/mascotas 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
