@@ -2,7 +2,7 @@
 
 **Tutorial**: https://parzibyte.me/blog/2019/11/04/angular-router-tutorial-ejemplo/
 
-**Demostración**: https://ejemplo-angular-router.stackblitz.io/mascotas 
+**Demostración**: https://stackblitz.com/edit/ejemplo-angular-router?embed=1&hideExplorer=1&hideNavigation=1&view=preview 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
